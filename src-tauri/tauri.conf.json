@@ -35,13 +35,7 @@
         "wix": {
           "language": "zh-CN"
         }
-      },
-      "deb": {
-        "files": {
-          "/usr/share/README.md": "../README.md", 
-          "usr/share/assets": "../assets/"
-        }
-      }     
+      }    
     },
     "security": {
       "csp": null
